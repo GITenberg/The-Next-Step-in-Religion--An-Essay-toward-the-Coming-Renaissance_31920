@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35555
     wikipedia: http://en.wikipedia.org/wiki/Roy_Wood_Sellars
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31920#The-Next-Step-in-Religion--An-Essay-toward-the-Coming-Renaissance
 gutenberg_issued: '2010-04-08'
 gutenberg_type: Text
 identifiers:
